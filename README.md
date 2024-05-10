@@ -12,7 +12,7 @@ To integrate WZ_Font into your projects, simply download the font files from the
 WZ_Font is licensed under the GPL3 license. Please refer to the license file in the repository for more details.
 
 **Example:**
-...
+'''
 <link rel="stylesheet" type="text/css" href="path/to/WZ_Font.css">
 <style>
   .wyze-camera {
@@ -22,4 +22,4 @@ WZ_Font is licensed under the GPL3 license. Please refer to the license file in 
   }
 </style>
 <div class="wyze-camera">Wyze Cam</div>
-...
+'''
