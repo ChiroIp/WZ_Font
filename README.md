@@ -29,4 +29,5 @@ WZ_Font is licensed under the GPL3 license. Please refer to the license file in 
 </style>
 <div class="wyze-camera">Wyze Cam</div>
 ```
-![Inkscape](https://github.com/ChiroIp/WZ_Font/assets/4256115/0e79c72a-4166-4a18-9953-f6a7bcce83a9)
+![FontForge](https://github.com/ChiroIp/WZ_Font/assets/4256115/f109daa1-c6d5-4d67-bf28-ef3c70d8c886)
+
