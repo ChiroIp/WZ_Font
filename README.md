@@ -31,3 +31,9 @@ WZ_Font is licensed under the GPL3 license. Please refer to the license file in 
 ```
 ![FontForge](https://github.com/ChiroIp/WZ_Font/assets/4256115/f109daa1-c6d5-4d67-bf28-ef3c70d8c886)
 
+**Used in**
+
+https://www.dtvrc.com/RTSP_Wyze/
+
+https://www.dtvrc.com/RTSP_Wyze_Free/
+
