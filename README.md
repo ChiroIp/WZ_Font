@@ -1,6 +1,8 @@
 # WZ_Font
 Wyze themed Font
 
+![Inkscape](https://github.com/ChiroIp/WZ_Font/assets/4256115/d66cd383-0cff-4ab8-9f8d-bd89f5f26036)
+
 **Description:**
 
 WZ_Font is a custom font designed to portray the model of a Wyze Cam, a versatile and affordable smart home security camera. 
@@ -8,7 +10,7 @@ This font is meticulously crafted to encapsulate the sleek and modern design of 
 
 **Usage:**
 
-To integrate WZ_Font into your projects, simply download the font files from the repository and install them on your system. Then, you can use the font like any other typeface in your favorite design tools or text editors.
+To integrate the WZ_Font into your projects, simply download the font files from the repository and install them on your system. Then, you can use the font like any other typeface in your favorite design tools or text editors.
 
 **License:**
 
@@ -27,3 +29,4 @@ WZ_Font is licensed under the GPL3 license. Please refer to the license file in 
 </style>
 <div class="wyze-camera">Wyze Cam</div>
 ```
+![Inkscape](https://github.com/ChiroIp/WZ_Font/assets/4256115/0e79c72a-4166-4a18-9953-f6a7bcce83a9)
